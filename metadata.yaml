@@ -1,5 +1,5 @@
 _repo: The-Letters-of-Horace-Walpole-Earl-of-Orford-Volume-1_4609
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Authors, English -- 18th century -- Correspondence'
 - !lcsh 'Walpole, Horace, 1717-1797 -- Correspondence'
 - !lcsh 'Nobility -- Great Britain -- Correspondence'
+- GITenberg
 title: The Letters of Horace Walpole, Earl of Orford — Volume 1
 url: http://www.gutenberg.org/ebooks/4609
